@@ -1,0 +1,7 @@
+{
+  "name": "@types/uuid",
+  "main": "",
+  "dependencies": {},
+  "types": "index",
+  "version": "7.0.0"
+}
